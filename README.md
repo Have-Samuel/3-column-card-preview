@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - [Github](https://github.com/Have-Samuel/3-column-card-preview)
-- [Live link]()
+- [Live link](https://fabulous-3-column-card.netlify.app/)
 
 
 ### Built with
