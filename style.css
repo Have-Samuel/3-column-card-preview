@@ -1,1 +1,166 @@
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 375px;
+  background: rgba(242, 242, 242, 1);
+  height: 84rem;
+  margin: 0 auto;
+}
+
+.sedans {
+  height: 27rem;
+  width: 327px;
+  border-radius: 8px 8px 0 0;
+  background: rgba(226, 134, 37, 1);
+  position: relative;
+}
+
+.top-image {
+  position: absolute;
+  left: 3rem;
+  top: 3rem;
+}
+
+.sedans h1 {
+  font-family: 'Big Shoulders Display', cursive;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0;
+  text-align: left;
+  color: rgba(242, 242, 242, 1);
+  padding-left: 3rem;
+  padding-top: 7.7rem;
+}
+
+.sedans p {
+  opacity: 75%;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  padding: 2.2rem 3rem;
+}
+
+.sedans a {
+  height: 48px;
+  width: 146px;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0;
+  text-align: left;
+  border-radius: 25px;
+  background: rgba(242, 242, 242, 1);
+  color: rgba(226, 134, 37, 1);
+  padding: 0.8rem 2rem;
+  text-decoration: none;
+  margin: 1.6rem 8.1rem 3rem 3.1rem;
+}
+
+.suvs {
+  height: 27rem;
+  width: 327px;
+  background: rgba(0, 105, 113, 1);
+  position: relative;
+}
+
+.suvs h1 {
+  font-family: 'Big Shoulders Display', cursive;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0;
+  text-align: left;
+  color: rgba(242, 242, 242, 1);
+  padding-left: 3rem;
+  padding-top: 7.7rem;
+}
+
+.suvs p {
+  opacity: 75%;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  padding: 2.2rem 3rem;
+}
+
+.suvs a {
+  height: 48px;
+  width: 146px;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0;
+  text-align: left;
+  border-radius: 25px;
+  background: rgba(242, 242, 242, 1);
+  color: rgba(0, 105, 113, 1);
+  padding: 0.8rem 2rem;
+  text-decoration: none;
+  margin: 1.6rem 8.1rem 3rem 3.1rem;
+}
+
+.luxury {
+  height: 27rem;
+  width: 327px;
+  border-radius: 0 0 8px 8px;
+  background: rgba(0, 65, 64, 1);
+  position: relative;
+}
+
+.luxury h1 {
+  font-family: 'Big Shoulders Display', cursive;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0;
+  text-align: left;
+  color: rgba(242, 242, 242, 1);
+  padding-left: 3rem;
+  padding-top: 7.7rem;
+}
+
+.luxury p {
+  opacity: 75%;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  padding: 2.2rem 3rem;
+}
+
+.luxury a {
+  height: 48px;
+  width: 146px;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0;
+  text-align: left;
+  border-radius: 25px;
+  background: rgba(242, 242, 242, 1);
+  color: rgba(0, 105, 113, 1);
+  padding: 0.8rem 2rem;
+  text-decoration: none;
+  margin: 1.6rem 8.1rem 3rem 3.1rem;
+}
